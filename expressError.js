@@ -1,5 +1,4 @@
-/** ExpressError extends normal JS error so we can
- *  add a status when we make an instance of it.
+/** Define custom error message bcase on error status code. 
  *
  *  The error-handling middleware will return this.
  */
